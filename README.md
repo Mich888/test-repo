@@ -1,8 +1,3 @@
-sadfs
+# README
 
-
-
-sdfsdfsdf
-
-
-new doc
+Local setup:

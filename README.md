@@ -1,4 +1,1 @@
-# README
-
-Local setup:
-run sandbox
+Hello, world!
